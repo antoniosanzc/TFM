@@ -63,11 +63,6 @@ Defocus blur is extremely common in images captured using optical imaging system
 https://www.cs.usask.ca/faculty/eramian/defocusseg/
 
 
-<code>
-
-      $ python3 takePhoto.py <focus> <due small|big> <direction backward|fordward>
-    
-</code>
 
 ## Convolutional Network
 
